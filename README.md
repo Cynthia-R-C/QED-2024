@@ -9,13 +9,20 @@ Straight or circular configuration: only enter “straight” if you entered the
 
 Because this requires the Apollonian gaskets to be integral, not all sets of initial radii are valid. Feel free to search online for additional sets of initial radii Apollonian gaskets, but here are examples you can try out:
 
-Radii:
-\n1, 1, 1
-\n½, ½, ⅓
-\n⅛, ⅛, ⅕
-\n125, 125, 128
-\n110, 115, 119
-\n118, 123, 127
+Example Radii:
+
+1, 1, 1
+
+½, ½, ⅓
+
+⅛, ⅛, ⅕
+
+125, 125, 128
+
+110, 115, 119
+
+118, 123, 127
+
 
 DO NOT choose a layer number larger than 5 if you want quick results. 
 
